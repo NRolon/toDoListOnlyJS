@@ -1,0 +1,27 @@
+
+body
+    {
+        color: #c5f1f2;
+        background-color: blueviolet;
+      }
+
+.boxINT{
+    color:  #c5f1f2;
+    background-color: indigo;
+}
+
+ul {
+    list-style: none;
+    display: block;
+  }
+
+li {
+  margin-left: auto;
+  display:flex;
+  padding: 10px 5px;
+}
+
+li p {
+  margin: 0;
+  padding: 5px;
+}
